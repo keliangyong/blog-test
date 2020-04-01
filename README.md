@@ -1,10 +1,10 @@
 # 个人简介
 我是柯柯，一个机械狗 => 前端 => 后端。
 学过且使用的语言有以下几种：
-. JavaScript
-. Python
-. PHP
-. Java
+1. JavaScript
+2. Python
+3. PHP
+4. Java
 
 喜欢：
 - 看电影
